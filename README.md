@@ -15,3 +15,4 @@
 5、AppDelegate.h：定义了应用程序委托类 AppDelegate，继承自 cocos2d::Application。
 （1）声明了构造函数、析构函数和多个虚函数，如初始化 OpenGL 上下文属性、应用程序启动完成、进入后台和进入前台等。
 6、main.h：包含 Windows 相关的头文件和一些宏定义。
+![QQ_1744795473611](https://github.com/user-attachments/assets/b1633f6c-bfae-49a8-a75b-34abad945229)
