@@ -1,5 +1,3 @@
-源码文件在“release”中！！！
-
 1、CardModel.h：定义了卡牌面值的枚举类型 CardFaceType 以及卡牌模型类 CardModel。
 （1）CardFaceType 枚举类型定义了从 ACE 到 KING 的 13 种卡牌面值，每种面值对应一个 1 - 13 的数值。
 （2）CardModel 类用于表示一张卡牌，包含默认构造函数、带参数的构造函数以及获取卡牌面值的函数。
